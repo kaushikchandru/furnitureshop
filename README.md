@@ -1,5 +1,5 @@
 # Furniture e-commerce
-A new Flutter application for daily grocery. 
+A new Flutter application for online furniture shopping. 
 Design Credit : https://www.behance.net/gallery/93705559/Atilog-Free-Mobile-APP-UI-kit
 
 # Tutorial
